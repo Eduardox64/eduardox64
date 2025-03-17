@@ -1,47 +1,67 @@
-# Olá, me chamo Eduardo da Silva Estulano!
+<h1 align="left">Olá, meu nome é Eduardo Estulano!</h1>
+<img align="right" height="324" src="https://i.imgur.com/8C9KLdf.png"  />
 
-Atualmente, estou no quinto semestre de Engenharia de Software na UNIGRAN, onde estou aprendendo a transformar café em código e a lidar com bugs como se fossem meus filhos rebeldes. Minha missão? Desenvolver soluções inovadoras e enfrentar desafios tecnológicos que, às vezes, me fazem questionar minhas escolhas na vida.
+<p align="left">Atualmente, estou no quinto semestre de Engenharia de Software na UNIGRAN, onde estou aprendendo a transformar café em código e a lidar com bugs como se fossem meus filhos rebeldes. Minha missão? Desenvolver soluções inovadoras e enfrentar desafios tecnológicos que, às vezes, me fazem questionar minhas escolhas na vida.<br><br>Para não ficar pra trás nesse mundo tech que muda mais rápido que o humor de uma pessoa com fome, estou sempre aprimorando minhas habilidades com cursos extracurriculares na Alura.<br><br>Resumindo: sou um apaixonado por tecnologia, com um pé na inovação e outro no humor (as vezes duvidoso). E apesar de ocasionalmente parecer que estou tendo um debate filosófico com meu código, garanto que sei o que estou fazendo... na maioria das vezes!</p>
 
-Para não ficar pra trás nesse mundo tech que muda mais rápido que o humor de uma pessoa com fome, estou sempre aprimorando minhas habilidades com cursos extracurriculares na Alura.
+###
 
-Resumindo: sou um apaixonado por tecnologia, com um pé na inovação e outro no humor (as vezes duvidoso). E apesar de ocasionalmente parecer que estou tendo um debate filosófico com meu código, garanto que sei o que estou fazendo... na maioria das vezes!
+<h2 align="left">Mídias sociais:</h2>
 
-<div align="center"><br>
-  <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAd/programmer.gif" alt="Programmer GIF" width="50%">
+###
+
+<div align="left">
+  <a href="https://wa.me/5567996934193" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/du.estulano/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="eduardo.estulano46@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-da-silva-estulano-447ba02b1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/363411019357224971" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
-<h2></h2>
+###
 
-<div align="center">
-<h3>🖥 Ferramentas e Tecnologias:</h3>
-  <div style="display: inline_block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> 
-  </div>
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
- 
-<h2></h2>
+###
 
-<div  align="center">
-<h3>📫 Você pode falar comigo através:</h3>
-<a href="https://www.linkedin.com/in/eduardo-da-silva-estulano-447ba02b1/"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://www.instagram.com/du.estulano/"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:eduardo.estulano46@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardox64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardox64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardox64&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<h2></h2>
-
-<div align="center">
-  <a href="https://github.com/Eduardox64">
-    <img loading="lazy" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardox64&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" width="365" src="https://github-readme-stats.vercel.app/api?username=Eduardox64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+###
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardox64/Eduardox64/output/github-contribution-grid-snake-dark.svg">
