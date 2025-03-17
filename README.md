@@ -9,6 +9,11 @@ Resumindo: sou um apaixonado por tecnologia, com um pé na inovação e outro no
 <div align="center">
   <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAd/programmer.gif" alt="Programmer GIF" width="50%">
 </div>
+
+<div align="center">
+  <img src="https://i.imgur.com/8C9KLdf.png" alt="Meu Avatar" width="150">
+</div>
+
 <h2></h2>
 <div align="center">
 <h3>🖥️ Ferramentas e Tecnologias:</h3>
