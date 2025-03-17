@@ -1,5 +1,7 @@
 <h1 align="left">Olá, meu nome é Eduardo Estulano!</h1>
-<img align="right" height="324" src="https://i.imgur.com/8C9KLdf.png"  />
+<img align="right" height="280" src="https://i.imgur.com/8C9KLdf.png"  />
+
+###
 
 <p align="left">Atualmente, estou no quinto semestre de Engenharia de Software na UNIGRAN, onde estou aprendendo a transformar café em código e a lidar com bugs como se fossem meus filhos rebeldes. Minha missão? Desenvolver soluções inovadoras e enfrentar desafios tecnológicos que, às vezes, me fazem questionar minhas escolhas na vida.<br><br>Para não ficar pra trás nesse mundo tech que muda mais rápido que o humor de uma pessoa com fome, estou sempre aprimorando minhas habilidades com cursos extracurriculares na Alura.<br><br>Resumindo: sou um apaixonado por tecnologia, com um pé na inovação e outro no humor (as vezes duvidoso). E apesar de ocasionalmente parecer que estou tendo um debate filosófico com meu código, garanto que sei o que estou fazendo... na maioria das vezes!</p>
 
@@ -56,9 +58,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardox64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardox64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardox64&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardox64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardox64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardox64&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
