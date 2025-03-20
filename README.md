@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Atualmente, estou no quinto semestre de Engenharia de Software na UNIGRAN, onde estou aprendendo a transformar café em código e a lidar com bugs como se fossem meus filhos rebeldes. Minha missão? Desenvolver soluções inovadoras e enfrentar desafios tecnológicos que, às vezes, me fazem questionar minhas escolhas na vida.<br><br>Para não ficar pra trás nesse mundo tech que muda mais rápido que o humor de uma pessoa com fome, estou sempre aprimorando minhas habilidades com cursos extracurriculares na Alura.<br><br>Resumindo: sou um apaixonado por tecnologia, com um pé na inovação e outro no humor (as vezes duvidoso). E apesar de ocasionalmente parecer que estou tendo um debate filosófico com meu código, garanto que sei o que estou fazendo... na maioria das vezes!</p>
+<p align="left">Atualmente estou no quinto semestre de Engenharia de Software na UNIGRAN, onde estou aprendendo a transformar café em código e a lidar com bugs como se fossem meus filhos rebeldes. Minha missão é Desenvolver soluções inovadoras e enfrentar desafios tecnológicos que, às vezes, me fazem questionar minhas escolhas na vida.<br><br>Para não ficar pra trás nesse mundo tech que muda mais rápido que o humor de uma pessoa com fome, estou sempre aprimorando minhas habilidades com cursos extracurriculares na Alura.<br><br>Resumindo: sou um apaixonado por tecnologia, com um pé na inovação e outro no humor (as vezes duvidoso). E apesar de ocasionalmente parecer que estou tendo um debate filosófico com meu código, garanto que sei o que estou fazendo... na maioria das vezes!</p>
 
 ###
 
